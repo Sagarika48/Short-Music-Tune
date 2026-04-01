@@ -1,9 +1,3 @@
-## Connect with Me
-- **GitHub:** [PDReddyDhanu](https://github.com/PDReddyDhanu)
-- **LinkedIn:** [Dhanunjay Reddy Palakolanu](https://www.linkedin.com/in/dhanunjay-reddy-palakolanu-pdr/)
-- **Instagram:** [p.d.reddy_dhanu04_08](https://www.instagram.com/p.d.reddy_dhanu04_08/)
-
-
 
 ## 🚀 Live Demo
 [Click here to try Short Music Tunes live!](https://pdr-tunes.netlify.app/)
